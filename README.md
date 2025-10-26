@@ -64,11 +64,9 @@ The system continuously collects sensor readings, displays them locally, and sen
 The system uploads data every 5 seconds to ThingSpeak, where it is visualized in real time.
 
 <p align="center">
-  <a href="https://thingspeak.com/channels/2600368">
      <img src="Images/ThingSpeak_output1.png" width="250"/> 
      <img src="Images/ThingSpeak_output2.png" width="250"/> 
      <img src="Images/ThingSpeak_output3.png" width="250"/>
-  </a>
 </p>
 
 ---
